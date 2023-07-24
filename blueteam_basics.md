@@ -1,4 +1,4 @@
-## Le triptyque CIA 
+# Le triptyque CIA 
 `représente les trois principes fondamentaux de la sécurité de l'information (Confidentialité, Intégrité, Disponibilité)`
 
 ### Confidentialité (Triptyque CIA)
@@ -21,8 +21,6 @@ Elle garantit que les systèmes, les données et les services sont disponibles e
 
 ## Threat, Vulnerability, and Risk
 
-![[threats-vulnerabilities-and-risk.png]]
-
 **Vulnerability** : faiblesse dans le système, lacune dans la sécurité de l'entreprise (unpatched system, employees without Security Awareness training, bad firewall config...)
 **Threat** : Cyber menace/indicent plausible due à une vulnerabilité (cyber criminals, threat actors...)
 **Risk** : vulnerability + threat = risk. Le risque est à la jonction entre les potentiels vulnérabilité et les menaces
@@ -38,7 +36,6 @@ Elle garantit que les systèmes, les données et les services sont disponibles e
 
 ## Measuring Risk
 
-![[measuring_risk.png]]
 
 Mesurer le risque **selon la probabilité à faire des degats et la valeur de ce qui contient le risque** (database with financial info > serveur not connected to the intern network / sysadmin with high access > restricted employee)
 

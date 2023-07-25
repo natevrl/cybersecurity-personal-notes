@@ -44,3 +44,25 @@ Mesurer le risque **selon la probabilité à faire des degats et la valeur de ce
 > Remember that part of your growth as an Analyst will be to learn to identify what is important for your company and how to respond accordingly.
 > 
 >> **Se rappeller qu'un bon cyber Analyst sait identifier ce qui est important pour l'entreprise et comment y répondre en concéquence.**
+
+# Frameworks and controls
+
+> Les frameworks (ou cadres de travail) sont des ensembles de lignes directrices (guidelines) et de normes établies pour aider à mettre en œuvre des stratégies de sécurité efficaces. (Define, Control, & Mitigate Risks)
+
+## Les types de frameworks
+
+### NIST Framework
+Développé par le National Institute of Standards and Technology (NIST) des États-Unis, ce cadre fournit une approche globale de la gestion des risques en cybersécurité. Il se compose de cinq fonctions principales : Identifier, Protéger, Détecter, Répondre et Récupérer.
+
+### ISO 27001
+Il s'agit d'une norme internationale pour la gestion de la sécurité de l'information. Elle fournit des directives pour établir, mettre en œuvre, maintenir et améliorer un système de gestion de la sécurité de l'information (SMSI) au sein d'une organisation.
+
+### CIS Controls
+Les CIS (Center for Internet Security) Controls sont un ensemble de meilleures pratiques de sécurité informatique qui aident les organisations à protéger leurs systèmes et leurs données contre les cybermenaces courantes.
+
+### MITRE ATT&CK
+Ce cadre, développé par MITRE Corporation, fournit une base de connaissances des tactiques, techniques et procédures (TTP) utilisées par les cyberattaquants. Il aide les organisations à mieux comprendre et à se défendre contre les menaces avancées.
+
+### OWASP Top 10
+Le Top 10 des vulnérabilités de l'OWASP (Open Web Application Security Project) est une liste des dix principales vulnérabilités de sécurité affectant les applications web, donnant aux développeurs un guide pour les éviter.
+

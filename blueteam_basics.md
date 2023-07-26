@@ -66,3 +66,13 @@ Ce cadre, développé par MITRE Corporation, fournit une base de connaissances d
 ### OWASP Top 10
 Le Top 10 des vulnérabilités de l'OWASP (Open Web Application Security Project) est une liste des dix principales vulnérabilités de sécurité affectant les applications web, donnant aux développeurs un guide pour les éviter.
 
+# ## Security Operations and the Defense Analyst
+
+Security Operations Center (SOC) : A centralized location where a cyber security team monitors, detects, analyzes and responds to cybersecurity incidents.
+
+**Security Posture** : The Security Posture of an organization represents how well an organization can  **predict, prevent  and respond to** ever-changing cyber threats.
+
+
+## Common Protection Technologies
+
+

@@ -68,11 +68,21 @@ Le Top 10 des vulnérabilités de l'OWASP (Open Web Application Security Project
 
 # ## Security Operations and the Defense Analyst
 
-Security Operations Center (SOC) : A centralized location where a cyber security team monitors, detects, analyzes and responds to cybersecurity incidents.
+> Un **SOC** (Security Operations Center) est un centre  de sécurité qui assure une surveillance continue et proactive des systèmes informatiques et des réseaux d'une organisation pour détecter et répondre rapidement aux menaces  grâce à un processus de "continuous monitoring cycle" (souvent 24/7).
 
 **Security Posture** : The Security Posture of an organization represents how well an organization can  **predict, prevent  and respond to** ever-changing cyber threats.
 
 
 ## Common Protection Technologies
+
+**Firewall** : contrôle et filtre le trafic réseau pour protéger les systèmes et les données contre les menaces potentielles.
+
+**IDS (Intrusion Detection System)** : système de détection d'intrusion qui surveille le trafic réseau ou les activités système pour identifier les comportements suspects ou les attaques potentielles.
+ Envoie des alerts et logs lorsque qu'il detecte des anomalies
+App : Snort, Suricata
+
+**IPS (Intrusion Prevention System)** : comme IDS + prend des mesures pour bloquer ou prévenir les attaques en temps réel (real-time)
+
+**FIREWALL vs IDS vs IPS** : En résumé, le pare-feu agit comme une barrière de filtrage entre les réseaux, l'IDS surveille le trafic pour détecter les anomalies, tandis que l'IPS détecte et prend des mesures actives pour bloquer ou prévenir les attaques en temps réel.
 
 

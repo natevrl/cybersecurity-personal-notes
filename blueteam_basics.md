@@ -85,4 +85,21 @@ App : Snort, Suricata
 
 **FIREWALL vs IDS vs IPS** : En résumé, le pare-feu agit comme une barrière de filtrage entre les réseaux, l'IDS surveille le trafic pour détecter les anomalies, tandis que l'IPS détecte et prend des mesures actives pour bloquer ou prévenir les attaques en temps réel.
 
+**Email gathering** : scrapping d'adresse email, souvent utilisé a des fins marketing
 
+**web proxies / web gateways** : serveur intermediaire entre client et serveur (utilise sa propre IP pour demander au serveur)
+
+**Email gateways** : passerelle e-mail, serveur-logiciel qui agit en tant qu'intermédiaire entre différents ssystèmes de messagerie électronique (filtrage & sécurité, auth. archivage et stockage...)
+
+**DLP (Data Loss Prevention)** : Approche de sécurité informatique visant à protéger les données sensibles et confidentielles d'une organisation en empêchant leur divulgation, leur fuite ou leur accès non autorisé.
+Exemples de mesures : (Surveillance et blocage des e-mails, Contrôle des périphériques de stockage. Chiffrement des données, Surveillance des accès aux bases de données...)
+Logiciels : McAfee Data Loss Prevention (DLP), Symantec Data Loss Prevention (DLP)
+
+**Nessus** : vulnerability scanner
+**Wireshak, TCPdump** : analyse de paquets réseau
+**honeypot (appat, piège)** : dispositif de sécurité informatique mis en place dans le réseau d'une organisation pour attirer et piéger les attaquants potentiels.
+
+**SIEM (Security Information and Event Management)** : Plateforme de sécurité informatique qui collecte, corrèle (normalize), centralise et  analyse les données de sécurité pour détecter et répondre aux menaces potentielles.
+
+**SOAR (Security Orchestration, Automation, and Response)** : **Le SOAR complète le SIEM en automatisant et en orchestrant les actions de réponse aux incidents de sécurité**. Il peut exécuter des tâches telles que la quarantaine d'un appareil compromis, le blocage d'une adresse IP malveillante ou l'envoi de notifications d'alerte aux équipes de sécurité.
+sandboxes

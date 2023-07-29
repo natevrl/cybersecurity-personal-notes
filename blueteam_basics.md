@@ -103,3 +103,38 @@ Logiciels : McAfee Data Loss Prevention (DLP), Symantec Data Loss Prevention (DL
 
 **SOAR (Security Orchestration, Automation, and Response)** : **Le SOAR complète le SIEM en automatisant et en orchestrant les actions de réponse aux incidents de sécurité**. Il peut exécuter des tâches telles que la quarantaine d'un appareil compromis, le blocage d'une adresse IP malveillante ou l'envoi de notifications d'alerte aux équipes de sécurité.
 sandboxes
+
+
+## SOC : Roles and Responsibilities
+
+### **SOC Team** : 
+
+**Tier l (Junior)**
+-  surveille let network traffic, logs et events
+- Gère les tickets, close les alerts
+- réalise des investigations basiques
+**Tier ll (Senior)**
+- Execute des investigations plus poussées
+- Chasse les adversaires proactivement
+- Surveille et résout les alertes plus complexes
+**Tier lll (Principale)**
+- Malware reversing
+- Threat hunting & adversary research
+- investigation avancée
+**SOC MANAGER** 
+- Supervise la SOC
+- plafinie des opérations, coordonne les activié
+- Gère les incidents
+- Analyse et rapport
+**CISO (Chief Information Security Officer)**
+- responsable de la stratégie globale
+- supervise et représente la SOC face aux autres secteurs
+- Planification et budgétisation (approves budget)
+- Gestion des partenariats externes
+
+### SOC Roles
+
+Defense Analyst : Investigates Notable Events
+Engineer : Creates and tests detections
+Architect : Chooses and implements tools
+

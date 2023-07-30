@@ -134,7 +134,22 @@ sandboxes
 
 ### SOC Roles
 
-Defense Analyst : Investigates Notable Events
-Engineer : Creates and tests detections
-Architect : Chooses and implements tools
+- Defense Analyst : Investigates Notable Events
+- Engineer : Creates and tests detections
+- Architect : Chooses and implements tools
+
+### Analyst SOC Tasks
+
+1. Goal ultime d'un SOC Analyst : identifier les security incidents le plus tot possible
+	1. **security Incident** : the CIA triad  of an asset (network, ststem...) has been broken
+	2. **Security/data breach** : confirmation of data disclosure to unauthorized parties.
+2. **Alert Triage :** Catégoriser et gérer les events/alert pour identifier les menaces potentielles
+	1. Reconnaitre les **True Positive** and **False Positive** events
+	2. **Incident Analysis** : Methode organisé pour **detecter** les incidents, **minimiser** les pertes, atténuer (**mitigating**) les faiblesses et maintenance la disponiblité des services liés
+	3. **Incident Response** : Plan claire etablie par les entreprise indiquant les demarches a suivre lorsque qu'un incident se produit. 
+3. **Threat Hunting** : Chercher/trouver de nouvelles menaces/attaques en utilisant des techniques d'investigation avancées
+
+Autres taches d'un SOC Analyst :
+1. **Reports or notes** : detailler les incidents trouvés lors de Threat Hungting ou Incident Analysis
+2. **Suggestions** : aider a améliorer des outils, automatiser. améliorer des settings...
 

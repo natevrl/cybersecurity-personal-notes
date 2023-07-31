@@ -153,3 +153,4 @@ Autres taches d'un SOC Analyst :
 1. **Reports or notes** : detailler les incidents trouvés lors de Threat Hungting ou Incident Analysis
 2. **Suggestions** : aider a améliorer des outils, automatiser. améliorer des settings...
 
+separer les fichiers selon les categories de la sec+

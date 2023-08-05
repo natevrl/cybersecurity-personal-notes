@@ -104,7 +104,6 @@ Logiciels : McAfee Data Loss Prevention (DLP), Symantec Data Loss Prevention (DL
 **SOAR (Security Orchestration, Automation, and Response)** : **Le SOAR complète le SIEM en automatisant et en orchestrant les actions de réponse aux incidents de sécurité**. Il peut exécuter des tâches telles que la quarantaine d'un appareil compromis, le blocage d'une adresse IP malveillante ou l'envoi de notifications d'alerte aux équipes de sécurité.
 sandboxes
 
-
 ## SOC : Roles and Responsibilities
 
 ### **SOC Team** : 

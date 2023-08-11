@@ -154,4 +154,3 @@ Autres taches d'un SOC Analyst :
 
 separer les fichiers selon les categories de la security+
 
-

@@ -12,6 +12,7 @@ L'intégrité vise à maintenir l'exactitude et la cohérence des données tout 
 
 **Méthodes** : hashing, digital signatures, and access controls to prevent unauthorized alterations.
 
+
 ### Disponibilité (Triptyque CIA)
 Elle garantit que les systèmes, les données et les services sont disponibles et fonctionnent correctement lorsque cela est requis.
 

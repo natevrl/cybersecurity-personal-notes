@@ -16,7 +16,7 @@ L'intégrité vise à maintenir l'exactitude et la cohérence des données tout 
 Elle garantit que les systèmes, les données et les services sont disponibles et fonctionnent correctement lorsque cela est requis.
 
 **Méthodes** : redundancy, failover mechanisms, load balancing, and disaster recovery plans
-
+  
 # Risk & Risk management
 
 ## Threat, Vulnerability, and Risk
